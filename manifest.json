@@ -1,0 +1,6 @@
+{
+    "name": "Spotify Chrome Extension",
+    "description" : "Just starting out..",
+    "version": "0.1.0",
+    "manifest_version": 2,
+}
